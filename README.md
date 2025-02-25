@@ -1,0 +1,1 @@
+# Integrated-earthquake-and-secondary-disaster-prediction
